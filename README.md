@@ -34,7 +34,7 @@ Ce guide vous montre comment automatiser l'importation d'ordinateurs dans GLPI Ã
 
 ## Auteur
 
-- [Sylvain](mailto:sylvain.meurot2023@campus-eni.fr)
+- [Sylvain MEUROT](mailto:sylvain.meurot2023@campus-eni.fr)
 
 ## Licence
 
