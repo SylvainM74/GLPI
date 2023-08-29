@@ -39,5 +39,3 @@ Ce guide vous montre comment automatiser l'importation d'ordinateurs dans GLPI Ã
 ## Licence
 
 Ce projet est sous licence MIT, ce qui signifie qu'il est libre d'utilisation, de modification et de distribution. Vous Ãªtes libre de l'utiliser dans vos projets personnels ou commerciaux. Veuillez consulter le fichier [LICENCE](LICENCE) pour plus d'informations.
-
-![Logo Licence MIT](https://opensource.org/files/OSIApproved.png)
